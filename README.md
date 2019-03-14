@@ -1,7 +1,10 @@
 
 # New York Times Book Search React app
 
+## About
+An app done with client and server side technollogy. User can search desired book thats provided by Google Books API. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
